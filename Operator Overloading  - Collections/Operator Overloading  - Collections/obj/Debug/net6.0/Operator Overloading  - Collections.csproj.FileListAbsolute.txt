@@ -1,0 +1,15 @@
+C:\Users\CASPER\Desktop\Operator Overloading - Collections\Operator Overloading  - Collections\Operator Overloading  - Collections\bin\Debug\net6.0\Operator Overloading  - Collections.exe
+C:\Users\CASPER\Desktop\Operator Overloading - Collections\Operator Overloading  - Collections\Operator Overloading  - Collections\bin\Debug\net6.0\Operator Overloading  - Collections.deps.json
+C:\Users\CASPER\Desktop\Operator Overloading - Collections\Operator Overloading  - Collections\Operator Overloading  - Collections\bin\Debug\net6.0\Operator Overloading  - Collections.runtimeconfig.json
+C:\Users\CASPER\Desktop\Operator Overloading - Collections\Operator Overloading  - Collections\Operator Overloading  - Collections\bin\Debug\net6.0\Operator Overloading  - Collections.dll
+C:\Users\CASPER\Desktop\Operator Overloading - Collections\Operator Overloading  - Collections\Operator Overloading  - Collections\bin\Debug\net6.0\Operator Overloading  - Collections.pdb
+C:\Users\CASPER\Desktop\Operator Overloading - Collections\Operator Overloading  - Collections\Operator Overloading  - Collections\obj\Debug\net6.0\Operator Overloading  - Collections.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\Operator Overloading - Collections\Operator Overloading  - Collections\Operator Overloading  - Collections\obj\Debug\net6.0\Operator Overloading  - Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\Desktop\Operator Overloading - Collections\Operator Overloading  - Collections\Operator Overloading  - Collections\obj\Debug\net6.0\Operator Overloading  - Collections.AssemblyInfoInputs.cache
+C:\Users\CASPER\Desktop\Operator Overloading - Collections\Operator Overloading  - Collections\Operator Overloading  - Collections\obj\Debug\net6.0\Operator Overloading  - Collections.AssemblyInfo.cs
+C:\Users\CASPER\Desktop\Operator Overloading - Collections\Operator Overloading  - Collections\Operator Overloading  - Collections\obj\Debug\net6.0\Operator Overloading  - Collections.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Operator Overloading - Collections\Operator Overloading  - Collections\Operator Overloading  - Collections\obj\Debug\net6.0\Operator Overloading  - Collections.dll
+C:\Users\CASPER\Desktop\Operator Overloading - Collections\Operator Overloading  - Collections\Operator Overloading  - Collections\obj\Debug\net6.0\refint\Operator Overloading  - Collections.dll
+C:\Users\CASPER\Desktop\Operator Overloading - Collections\Operator Overloading  - Collections\Operator Overloading  - Collections\obj\Debug\net6.0\Operator Overloading  - Collections.pdb
+C:\Users\CASPER\Desktop\Operator Overloading - Collections\Operator Overloading  - Collections\Operator Overloading  - Collections\obj\Debug\net6.0\Operator Overloading  - Collections.genruntimeconfig.cache
+C:\Users\CASPER\Desktop\Operator Overloading - Collections\Operator Overloading  - Collections\Operator Overloading  - Collections\obj\Debug\net6.0\ref\Operator Overloading  - Collections.dll
